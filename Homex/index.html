@@ -1,0 +1,658 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+<meta charset="utf-8"/>
+<title>HomeX</title>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<meta content="" name="keywords"/>
+<meta content="" name="description"/>
+<!-- Favicon -->
+<link rel="icon" type="image/png" href="img/favicon-96x96.png" sizes="96x96" />
+<link rel="icon" type="image/svg+xml" href="img/favicon.svg" />
+<link rel="shortcut icon" href="img/favicon.ico" />
+<link rel="apple-touch-icon" sizes="180x180" href="img/apple-touch-icon.png" />
+<link rel="manifest" href="img/site.webmanifest" />
+<!-- Google Web Fonts -->
+<link href="https://fonts.googleapis.com" rel="preconnect"/>
+<link crossorigin="" href="https://fonts.gstatic.com" rel="preconnect"/>
+<link href="https://fonts.googleapis.com/css2?family=Heebo:wght@400;500;600&amp;family=Inter:wght@700;800&amp;display=swap" rel="stylesheet"/>
+<!-- Icon Font Stylesheet -->
+<link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.10.0/css/all.min.css" rel="stylesheet"/>
+<link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.4.1/font/bootstrap-icons.css" rel="stylesheet"/>
+<!-- Libraries Stylesheet -->
+<!-- <link href="lib/animate/animate.min.css" rel="stylesheet"> -->
+<link href="lib/owlcarousel/assets/owl.carousel.min.css" rel="stylesheet"/>
+<!-- Customized Bootstrap Stylesheet -->
+<link href="css/bootstrap.min.css" rel="stylesheet"/>
+<!-- Template Stylesheet -->
+<link href="css/style.css" rel="stylesheet"/>
+</head>
+<body>
+<div class="container-xxl bg-white p-0">
+<!-- Spinner Start -->
+<!-- <div id="spinner" class="show bg-white position-fixed translate-middle w-100 vh-100 top-50 start-50 d-flex align-items-center justify-content-center">
+            <div class="spinner-border text-primary" style="width: 3rem; height: 3rem;" role="status">
+                <span class="sr-only">Loading...</span>
+            </div>
+        </div> -->
+<!-- Spinner End -->
+<!-- Navbar Start -->
+<div class="container-fluid nav-bar bg-transparent">
+<nav class="navbar navbar-expand-lg bg-white navbar-light py-0 px-4">
+<a class="navbar-brand d-flex align-items-center text-center" href="index.html">
+<div class="icon p-2 me-2">
+<img alt="Icon" class="img-fluid" src="img/icon-deal.png" style="width: 30px; height: 30px;"/>
+</div>
+<h1 class="m-0 text-primary">HomeX</h1>
+</a>
+<button class="navbar-toggler" data-bs-target="#navbarCollapse" data-bs-toggle="collapse" type="button">
+<span class="navbar-toggler-icon"></span>
+</button>
+<div class="collapse navbar-collapse" id="navbarCollapse">
+<div class="navbar-nav ms-auto">
+<div class="navbar-nav ms-auto">
+<a class="nav-item nav-link active" href="index.html">Home</a>
+<a class="nav-item nav-link" href="property-list.html">Properites</a>
+<a class="nav-link" href="mortgage.html">Mortgage Calculator</a>
+<a class="nav-item nav-link" href="contact.html">Contact Us</a>
+</div>
+</div>
+</div>
+</nav>
+</div>
+<!-- Navbar End -->
+<!-- Header Start -->
+<div class="container-fluid header bg-white p-0">
+<div class="row g-0 align-items-center flex-column-reverse flex-md-row">
+<div class="col-md-6 p-5 mt-lg-5">
+<h1 class="display-5 animated fadeIn mb-4">Find your ideal <span class="text-primary">Property</span> </h1>
+<p class="animated fadeIn mb-4 pb-2">Discover your dream Home, Office, Shop, Garage with us. We offer a wide range of properties tailored to meet your family's needs and lifestyle.</p>
+<a class="btn btn-primary py-3 px-5 me-3 animated fadeIn" href="property-list.html">Get Started</a>
+</div>
+<div class="col-md-6 animated fadeIn">
+<div class="owl-carousel header-carousel">
+<div class="owl-carousel-item">
+<img alt="" class="img-fluid" src="img/carousel-1.jpg"/>
+</div>
+<div class="owl-carousel-item">
+<img alt="" class="img-fluid" src="img/carousel-2.jpg"/>
+</div>
+</div>
+</div>
+</div>
+</div>
+<!-- Header End -->
+<!-- Search Start -->
+<!-- Search End -->
+<!-- Category Start -->
+<div class="container-xxl propertyTypes py-5">
+<div class="container">
+<div class="text-center mx-auto mb-5 wow fadeInUp" data-wow-delay="0.1s" style="max-width: 600px;">
+<h1 class="mb-3">Property Types</h1>
+<p>Explore a wide range of property types tailored to your lifestyle and needs. Whether you're searching for a modern apartment, a spacious villa, or a commercial space, HomeX connects you with the perfect options across trusted listings.</p>
+</div>
+<div class="row g-4">
+<div class="col-lg-3 col-sm-6 wow fadeInUp" data-wow-delay="0.1s">
+<a class="cat-item d-block bg-light text-center rounded p-3">
+<div class="rounded p-4">
+<div class="icon mb-3">
+<img alt="Icon" class="img-fluid" src="img/icon-apartment.png"/>
+</div>
+<h6>Apartment</h6>
+</div>
+</a>
+</div>
+<div class="col-lg-3 col-sm-6 wow fadeInUp" data-wow-delay="0.3s">
+<a class="cat-item d-block bg-light text-center rounded p-3">
+<div class="rounded p-4">
+<div class="icon mb-3">
+<img alt="Icon" class="img-fluid" src="img/icon-villa.png"/>
+</div>
+<h6>Villa</h6>
+</div>
+</a>
+</div>
+<div class="col-lg-3 col-sm-6 wow fadeInUp" data-wow-delay="0.5s">
+<a class="cat-item d-block bg-light text-center rounded p-3">
+<div class="rounded p-4">
+<div class="icon mb-3">
+<img alt="Icon" class="img-fluid" src="img/icon-house.png"/>
+</div>
+<h6>Home</h6>
+</div>
+</a>
+</div>
+<div class="col-lg-3 col-sm-6 wow fadeInUp" data-wow-delay="0.7s">
+<a class="cat-item d-block bg-light text-center rounded p-3">
+<div class="rounded p-4">
+<div class="icon mb-3">
+<img alt="Icon" class="img-fluid" src="img/icon-housing.png"/>
+</div>
+<h6>Office</h6>
+</div>
+</a>
+</div>
+<div class="col-lg-3 col-sm-6 wow fadeInUp" data-wow-delay="0.1s">
+<a class="cat-item d-block bg-light text-center rounded p-3">
+<div class="rounded p-4">
+<div class="icon mb-3">
+<img alt="Icon" class="img-fluid" src="img/icon-building.png"/>
+</div>
+<h6>Building</h6>
+</div>
+</a>
+</div>
+<div class="col-lg-3 col-sm-6 wow fadeInUp" data-wow-delay="0.3s">
+<a class="cat-item d-block bg-light text-center rounded p-3">
+<div class="rounded p-4">
+<div class="icon mb-3">
+<img alt="Icon" class="img-fluid" src="img/icon-neighborhood.png"/>
+</div>
+<h6>Townhouse</h6>
+</div>
+</a>
+</div>
+<div class="col-lg-3 col-sm-6 wow fadeInUp" data-wow-delay="0.5s">
+<a class="cat-item d-block bg-light text-center rounded p-3">
+<div class="rounded p-4">
+<div class="icon mb-3">
+<img alt="Icon" class="img-fluid" src="img/icon-condominium.png"/>
+</div>
+<h6>Shop</h6>
+</div>
+</a>
+</div>
+<div class="col-lg-3 col-sm-6 wow fadeInUp" data-wow-delay="0.7s">
+<a class="cat-item d-block bg-light text-center rounded p-3">
+<div class="rounded p-4">
+<div class="icon mb-3">
+<img alt="Icon" class="img-fluid" src="img/icon-luxury.png"/>
+</div>
+<h6>Garage</h6>
+</div>
+</a>
+</div>
+</div>
+</div>
+</div>
+<!-- Category End -->
+<!-- About Start -->
+<div class="container-xxl py-5">
+<div class="container">
+<div class="row g-5 align-items-center">
+<div class="col-lg-6 wow fadeIn" data-wow-delay="0.1s">
+<div class="about-img position-relative overflow-hidden p-5 pe-0">
+<img class="img-fluid w-100" src="img/about.jpg"/>
+</div>
+</div>
+<div class="col-lg-6 wow fadeIn" data-wow-delay="0.5s">
+<h1 class="mb-4">#1 Place To Find The Perfect Property</h1>
+<p class="mb-4">Discover your dream home with HomeX — where premium listings meet trusted agents. Whether you're buying, renting, or investing, we offer tailored solutions that suit your needs and budget. Let us help you find the ideal property today.</p>
+<p><i class="fa fa-check text-primary me-3"></i>Curated listings of top-quality homes and apartments</p>
+<p><i class="fa fa-check text-primary me-3"></i>Verified property details with expert guidance</p>
+<p><i class="fa fa-check text-primary me-3"></i>Seamless search and secure contact with agents</p>
+</div>
+</div>
+</div>
+</div>
+<!-- About End -->
+<!-- Property List Start -->
+<div class="container-xxl py-5">
+<div class="container propertiesindex">
+<div class="row g-0 gx-5 align-items-end">
+<div class="col-lg-6">
+<div class="text-start mx-auto mb-5 wow slideInLeft" data-wow-delay="0.1s">
+<h1 class="mb-3">Property Listing</h1>
+<p>Browse our curated list of available properties featuring detailed descriptions, images, and pricing. Find your ideal home or investment opportunity in just a few clicks with HomeX.</p>
+</div>
+</div>
+<div class="col-lg-6 text-start text-lg-end wow slideInRight" data-wow-delay="0.1s">
+<ul class="nav nav-pills d-inline-flex justify-content-end mb-5">
+<li class="nav-item me-2">
+<button class="btn btn-outline-primary filter-btn active" data-filter="featured">Featured</button>
+</li>
+<li class="nav-item me-2">
+<button class="btn btn-outline-primary filter-btn" data-filter="for sale">For Sale</button>
+</li>
+<li class="nav-item me-0">
+<button class="btn btn-outline-primary filter-btn" data-filter="for rent">For Rent</button>
+</li>
+</ul>
+</div>
+</div>
+<div class="tab-content">
+<div class="tab-pane fade show p-0 active" id="tab-1">
+  <div class="row g-4">
+    <!-- Apartment Card -->
+    <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
+      <div class="property-card" data-status="for sale" data-type="Apartment" style="cursor:pointer;">
+        <div class="property-item rounded overflow-hidden">
+          <div class="position-relative overflow-hidden">
+            <a href="blank.html?id=apartment-001" class="property-link" data-id="apartment-001"><img alt="Modern 2-Bedroom Apartment" class="img-fluid" src="img/generated/apartment.png" /></a>
+            <div class="bg-primary rounded text-white position-absolute start-0 top-0 m-4 py-1 px-3">For Sale</div>
+            <div class="bg-white rounded-top text-primary position-absolute start-0 bottom-0 mx-4 pt-1 px-3">Apartment</div>
+          </div>
+          <div class="p-4 pb-0">
+            <h5 class="text-primary mb-3">₦50,000,000</h5>
+            <a class="d-block h5 mb-2 property-link" href="blank.html?id=apartment-001" data-id="apartment-001">Modern 2-Bedroom Apartment in Lagos</a>
+            <p><i class="fa fa-map-marker-alt text-primary me-2"></i>Lagos</p>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- Home Card -->
+    <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.2s">
+      <div class="property-card" data-status="for sale" data-type="Home" style="cursor:pointer;">
+        <div class="property-item rounded overflow-hidden">
+          <div class="position-relative overflow-hidden">
+            <a href="blank.html?id=home-001" class="property-link" data-id="home-001"><img alt="Spacious Family Home" class="img-fluid" src="https://images.nigeriapropertycentre.com/properties/images/2675582/0679056efad062-a-well-built-spacious-4bedroom-detached-duplex-bq-detached-duplexes-for-sale-jabi-abuja.jpg" /></a>
+            <div class="bg-primary rounded text-white position-absolute start-0 top-0 m-4 py-1 px-3">For Sale</div>
+            <div class="bg-white rounded-top text-primary position-absolute start-0 bottom-0 mx-4 pt-1 px-3">Home</div>
+          </div>
+          <div class="p-4 pb-0">
+            <h5 class="text-primary mb-3">₦120,000,000</h5>
+            <a class="d-block h5 mb-2 property-link" href="blank.html?id=home-001" data-id="home-001">Spacious 4-Bedroom Family Home in Abuja</a>
+            <p><i class="fa fa-map-marker-alt text-primary me-2"></i>Abuja</p>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- Villa Card -->
+    <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
+      <div class="property-card" data-status="for sale" data-type="Villa" style="cursor:pointer;">
+        <div class="property-item rounded overflow-hidden">
+          <div class="position-relative overflow-hidden">
+            <a href="blank.html?id=villa-002" class="property-link" data-id="villa-002"><img alt="Luxury Villa" class="img-fluid" src="https://a0.muscache.com/im/pictures/8de0e009-68fc-4797-b3da-4c5f8bef4a73.jpg" /></a>
+            <div class="bg-primary rounded text-white position-absolute start-0 top-0 m-4 py-1 px-3">For Sale</div>
+            <div class="bg-white rounded-top text-primary position-absolute start-0 bottom-0 mx-4 pt-1 px-3">Villa</div>
+          </div>
+          <div class="p-4 pb-0">
+            <h5 class="text-primary mb-3">₦800,000,000</h5>
+            <a class="d-block h5 mb-2 property-link" href="blank.html?id=villa-002" data-id="villa-002">Luxury 5-Bedroom Villa with Private Pool in Port Harcourt</a>
+            <p><i class="fa fa-map-marker-alt text-primary me-2"></i>Port Harcourt</p>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- Office Card -->
+    <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.4s">
+      <div class="property-card" data-status="for rent" data-type="Office" style="cursor:pointer;">
+        <div class="property-item rounded overflow-hidden">
+          <div class="position-relative overflow-hidden">
+            <a href="blank.html?id=office-003" class="property-link" data-id="office-003"><img alt="Modern Office Space" class="img-fluid" src="https://images.nigeriapropertycentre.com/properties/images/thumbs/2796592/067eb06fd4afd6-private-office-space-for-3-persons-in-regus-mansard-place-offices-for-rent-victoria-island-lagos.jpg" /></a>
+            <div class="bg-primary rounded text-white position-absolute start-0 top-0 m-4 py-1 px-3">For Rent</div>
+            <div class="bg-white rounded-top text-primary position-absolute start-0 bottom-0 mx-4 pt-1 px-3">Office</div>
+          </div>
+          <div class="p-4 pb-0">
+            <h5 class="text-primary mb-3">₦250,000/month</h5>
+            <a class="d-block h5 mb-2 property-link" href="blank.html?id=office-003" data-id="office-003">Modern Office Space in Victoria Island</a>
+            <p><i class="fa fa-map-marker-alt text-primary me-2"></i>Lagos</p>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- Shop Card -->
+    <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.5s">
+      <div class="property-card" data-status="for rent" data-type="Shop" style="cursor:pointer;">
+        <div class="property-item rounded overflow-hidden">
+          <div class="position-relative overflow-hidden">
+            <a href="blank.html?id=shop-004" class="property-link" data-id="shop-004"><img alt="Prime Retail Shop" class="img-fluid" src="https://optimumtimes.com/wp-content/uploads/2020/04/Wuse-Market-Abuja.jpg" /></a>
+            <div class="bg-primary rounded text-white position-absolute start-0 top-0 m-4 py-1 px-3">For Rent</div>
+            <div class="bg-white rounded-top text-primary position-absolute start-0 bottom-0 mx-4 pt-1 px-3">Shop</div>
+          </div>
+          <div class="p-4 pb-0">
+            <h5 class="text-primary mb-3">₦180,000/month</h5>
+            <a class="d-block h5 mb-2 property-link" href="blank.html?id=shop-004" data-id="shop-004">Prime Retail Shop in Wuse Market</a>
+            <p><i class="fa fa-map-marker-alt text-primary me-2"></i>Abuja</p>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- Garage Card -->
+    <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.6s">
+      <div class="property-card" data-status="for rent" data-type="Garage" style="cursor:pointer;">
+        <div class="property-item rounded overflow-hidden">
+          <div class="position-relative overflow-hidden">
+            <a href="blank.html?id=garage-005" class="property-link" data-id="garage-005"><img alt="Secure Garage" class="img-fluid" src="https://images.nigeriapropertycentre.com/properties/images/2396732/066b68a993d80b-14sqm-to-69sqm-self-storage-space-warehouses-for-rent-ikeja-lagos.jpeg" /></a>
+            <div class="bg-primary rounded text-white position-absolute start-0 top-0 m-4 py-1 px-3">For Rent</div>
+            <div class="bg-white rounded-top text-primary position-absolute start-0 bottom-0 mx-4 pt-1 px-3">Garage</div>
+          </div>
+          <div class="p-4 pb-0">
+            <h5 class="text-primary mb-3">₦60,000/month</h5>
+            <a class="d-block h5 mb-2 property-link" href="blank.html?id=garage-005" data-id="garage-005">Secure Garage Space in Ikeja</a>
+            <p><i class="fa fa-map-marker-alt text-primary me-2"></i>Lagos</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="col-12 text-center">
+    <a class="btn btn-primary py-3 px-5" href="property-list.html">Browse More Property</a>
+  </div>
+</div>
+<div class="tab-pane fade show p-0" id="tab-2">
+<div class="row g-4">
+<div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
+<div class="property-card" data-status="for sale" data-type="Apartment" style="cursor:pointer;">
+<div class="property-item rounded overflow-hidden">
+<div class="position-relative overflow-hidden">
+<a href="blank.html?id=apartment-006" class="property-link" data-id="apartment-006"><img alt="Contemporary 4-Bedroom Apartment near City Center, Lagos" class="img-fluid" src="https://source.unsplash.com/600x400/?Contemporary%204-Bedroom%20Apartment%20near%20City%20Center%2C%20Lagos,Apartment,Lagos&amp;sig=4"/></a>
+<div class="bg-primary rounded text-white position-absolute start-0 top-0 m-4 py-1 px-3">For Sale</div>
+<div class="bg-white rounded-top text-primary position-absolute start-0 bottom-0 mx-4 pt-1 px-3">Apartment</div>
+</div>
+<div class="p-4 pb-0">
+<h5 class="text-primary mb-3">₦70,000,000</h5>
+<a class="d-block h5 mb-2 property-link" href="blank.html?id=apartment-006" data-id="apartment-006">Contemporary 4-Bedroom Apartment near City Center, Lagos</a>
+<p><i class="fa fa-map-marker-alt text-primary me-2"></i>Lagos</p>
+</div>
+</div>
+</div>
+</div>
+
+<div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.2s">
+<div class="property-card" data-status="for sale" data-type="Apartment" style="cursor:pointer;">
+<div class="property-item rounded overflow-hidden">
+<div class="position-relative overflow-hidden">
+<a href="blank.html?id=apartment-007" class="property-link" data-id="apartment-007"><img alt="Contemporary 6-Bedroom Apartment near City Center, Abuja" class="img-fluid" src="https://source.unsplash.com/600x400/?Contemporary%206-Bedroom%20Apartment%20near%20City%20Center%2C%20Abuja,Apartment,Abuja&amp;sig=6"/></a>
+<div class="bg-primary rounded text-white position-absolute start-0 top-0 m-4 py-1 px-3">For Sale</div>
+<div class="bg-white rounded-top text-primary position-absolute start-0 bottom-0 mx-4 pt-1 px-3">Apartment</div>
+</div>
+<div class="p-4 pb-0">
+<h5 class="text-primary mb-3">₦90,000,000</h5>
+<a class="d-block h5 mb-2 property-link" href="blank.html?id=apartment-007" data-id="apartment-007">Contemporary 6-Bedroom Apartment near City Center, Abuja</a>
+<p><i class="fa fa-map-marker-alt text-primary me-2"></i>Abuja</p>
+</div>
+</div>
+</div>
+</div>
+
+<div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
+<div class="property-card" data-status="for sale" data-type="Apartment" style="cursor:pointer;">
+<div class="property-item rounded overflow-hidden">
+<div class="position-relative overflow-hidden">
+<a href="blank.html?id=apartment-008" class="property-link" data-id="apartment-008"><img alt="Modern 8-Bedroom Apartment in Port Harcourt" class="img-fluid" src="https://source.unsplash.com/600x400/?Modern%208-Bedroom%20Apartment%20in%20Port%20Harcourt,Apartment,Port%20Harcourt&amp;sig=8"/></a>
+<div class="bg-primary rounded text-white position-absolute start-0 top-0 m-4 py-1 px-3">For Sale</div>
+<div class="bg-white rounded-top text-primary position-absolute start-0 bottom-0 mx-4 pt-1 px-3">Apartment</div>
+</div>
+<div class="p-4 pb-0">
+<h5 class="text-primary mb-3">₦110,000,000</h5>
+<a class="d-block h5 mb-2 property-link" href="blank.html?id=apartment-008" data-id="apartment-008">Modern 8-Bedroom Apartment in Port Harcourt</a>
+<p><i class="fa fa-map-marker-alt text-primary me-2"></i>Port Harcourt</p>
+</div>
+</div>
+</div>
+</div>
+
+<div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
+<div class="property-card" data-status="for sale" data-type="Apartment" style="cursor:pointer;">
+<div class="property-item rounded overflow-hidden">
+<div class="position-relative overflow-hidden">
+<a href="blank.html?id=apartment-009" class="property-link" data-id="apartment-009"><img alt="Stylish 9-Bedroom Flat with Amenities in Lagos" class="img-fluid" src="https://source.unsplash.com/600x400/?Stylish%209-Bedroom%20Flat%20with%20Amenities%20in%20Lagos,Apartment,Lagos&amp;sig=9"/></a>
+<div class="bg-primary rounded text-white position-absolute start-0 top-0 m-4 py-1 px-3">For Sale</div>
+<div class="bg-white rounded-top text-primary position-absolute start-0 bottom-0 mx-4 pt-1 px-3">Apartment</div>
+</div>
+<div class="p-4 pb-0">
+<h5 class="text-primary mb-3">₦120,000,000</h5>
+<a class="d-block h5 mb-2 property-link" href="blank.html?id=apartment-009" data-id="apartment-009">Stylish 9-Bedroom Flat with Amenities in Lagos</a>
+<p><i class="fa fa-map-marker-alt text-primary me-2"></i>Lagos</p>
+</div>
+</div>
+</div>
+</div>
+
+<div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.2s">
+<div class="property-card" data-status="for sale" data-type="Apartment" style="cursor:pointer;">
+<div class="property-item rounded overflow-hidden">
+<div class="position-relative overflow-hidden">
+<a href="blank.html?id=apartment-010" class="property-link" data-id="apartment-010"><img alt="Modern 10-Bedroom Apartment in Lagos" class="img-fluid" src="https://source.unsplash.com/600x400/?Modern%2010-Bedroom%20Apartment%20in%20Lagos,Apartment,Lagos&amp;sig=10"/></a>
+<div class="bg-primary rounded text-white position-absolute start-0 top-0 m-4 py-1 px-3">For Sale</div>
+<div class="bg-white rounded-top text-primary position-absolute start-0 bottom-0 mx-4 pt-1 px-3">Apartment</div>
+</div>
+<div class="p-4 pb-0">
+<h5 class="text-primary mb-3">₦130,000,000</h5>
+<a class="d-block h5 mb-2 property-link" href="blank.html?id=apartment-010" data-id="apartment-010">Modern 10-Bedroom Apartment in Lagos</a>
+<p><i class="fa fa-map-marker-alt text-primary me-2"></i>Lagos</p>
+</div>
+</div>
+</div>
+</div>
+
+<div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
+<div class="property-card" data-status="for sale" data-type="Villa" style="cursor:pointer;">
+<div class="property-item rounded overflow-hidden">
+<div class="position-relative overflow-hidden">
+<a href="blank.html?id=villa-011" class="property-link" data-id="villa-011"><img alt="Luxury 4-Bedroom Villa with Private Pool in Port Harcourt" class="img-fluid" src="https://source.unsplash.com/600x400/?Luxury%204-Bedroom%20Villa%20with%20Private%20Pool%20in%20Port%20Harcourt,Villa,Port%20Harcourt&amp;sig=14"/></a>
+<div class="bg-primary rounded text-white position-absolute start-0 top-0 m-4 py-1 px-3">For Sale</div>
+<div class="bg-white rounded-top text-primary position-absolute start-0 bottom-0 mx-4 pt-1 px-3">Villa</div>
+</div>
+<div class="p-4 pb-0">
+<h5 class="text-primary mb-3">₦800,000,000</h5>
+<a class="d-block h5 mb-2 property-link" href="blank.html?id=villa-011" data-id="villa-011">Luxury 4-Bedroom Villa with Private Pool in Port Harcourt</a>
+<p><i class="fa fa-map-marker-alt text-primary me-2"></i>Port Harcourt</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="col-12 text-center">
+  <a class="btn btn-primary py-3 px-5" href="property-list.html">Browse More Property</a>
+</div>
+</div>
+<div class="tab-pane fade show p-0" id="tab-3">
+<div class="row g-4">
+<div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
+<div class="property-card" data-status="for rent" data-type="Apartment" style="cursor:pointer;">
+<div class="property-item rounded overflow-hidden">
+<div class="position-relative overflow-hidden">
+<a href="blank.html?id=apartment-012" class="property-link" data-id="apartment-012"><img alt="Stylish 1-Bedroom Flat with Amenities in Port Harcourt" class="img-fluid" src="https://source.unsplash.com/600x400/?Stylish%201-Bedroom%20Flat%20with%20Amenities%20in%20Port%20Harcourt,Apartment,Port%20Harcourt&amp;sig=1"/></a>
+<div class="bg-primary rounded text-white position-absolute start-0 top-0 m-4 py-1 px-3">For Rent</div>
+<div class="bg-white rounded-top text-primary position-absolute start-0 bottom-0 mx-4 pt-1 px-3">Apartment</div>
+</div>
+<div class="p-4 pb-0">
+<h5 class="text-primary mb-3">₦40,000,000</h5>
+<a class="d-block h5 mb-2 property-link" href="blank.html?id=apartment-012" data-id="apartment-012">Stylish 1-Bedroom Flat with Amenities in Port Harcourt</a>
+<p><i class="fa fa-map-marker-alt text-primary me-2"></i>Port Harcourt</p>
+</div>
+<div class="col-12 text-center">
+  <a class="btn btn-primary py-3 px-5" href="property-list.html">Browse More Property</a>
+</div>
+</div>
+</div>
+</div>
+
+<div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.2s">
+<div class="property-card" data-status="for rent" data-type="Apartment" style="cursor:pointer;">
+<div class="property-item rounded overflow-hidden">
+<div class="position-relative overflow-hidden">
+<a href="blank.html?id=apartment-013" class="property-link" data-id="apartment-013"><img alt="Modern 2-Bedroom Apartment in Lagos" class="img-fluid" src="https://source.unsplash.com/600x400/?Modern%202-Bedroom%20Apartment%20in%20Lagos,Apartment,Lagos&amp;sig=2"/></a>
+<div class="bg-primary rounded text-white position-absolute start-0 top-0 m-4 py-1 px-3">For Rent</div>
+<div class="bg-white rounded-top text-primary position-absolute start-0 bottom-0 mx-4 pt-1 px-3">Apartment</div>
+</div>
+<div class="p-4 pb-0">
+<h5 class="text-primary mb-3">₦50,000,000</h5>
+<a class="d-block h5 mb-2 property-link" href="blank.html?id=apartment-013" data-id="apartment-013">Modern 2-Bedroom Apartment in Lagos</a>
+<p><i class="fa fa-map-marker-alt text-primary me-2"></i>Lagos</p>
+</div>
+</div>
+</div>
+</div>
+
+<div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
+<div class="property-card" data-status="for rent" data-type="Apartment" style="cursor:pointer;">
+<div class="property-item rounded overflow-hidden">
+<div class="position-relative overflow-hidden">
+<a href="blank.html?id=apartment-014" class="property-link" data-id="apartment-014"><img alt="Stylish 3-Bedroom Flat with Amenities in Lagos" class="img-fluid" src="https://source.unsplash.com/600x400/?Stylish%203-Bedroom%20Flat%20with%20Amenities%20in%20Lagos,Apartment,Lagos&amp;sig=3"/></a>
+<div class="bg-primary rounded text-white position-absolute start-0 top-0 m-4 py-1 px-3">For Rent</div>
+<div class="bg-white rounded-top text-primary position-absolute start-0 bottom-0 mx-4 pt-1 px-3">Apartment</div>
+</div>
+<div class="p-4 pb-0">
+<h5 class="text-primary mb-3">₦60,000,000</h5>
+<a class="d-block h5 mb-2 property-link" href="blank.html?id=apartment-014" data-id="apartment-014">Stylish 3-Bedroom Flat with Amenities in Lagos</a>
+<p><i class="fa fa-map-marker-alt text-primary me-2"></i>Lagos</p>
+</div>
+</div>
+</div>
+</div>
+
+<div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
+<div class="property-card" data-status="for rent" data-type="Apartment" style="cursor:pointer;">
+<div class="property-item rounded overflow-hidden">
+<div class="position-relative overflow-hidden">
+<a href="blank.html?id=apartment-015" class="property-link" data-id="apartment-015"><img alt="Modern 5-Bedroom Apartment in Abuja" class="img-fluid" src="https://source.unsplash.com/600x400/?Modern%205-Bedroom%20Apartment%20in%20Abuja,Apartment,Abuja&amp;sig=5"/></a>
+<div class="bg-primary rounded text-white position-absolute start-0 top-0 m-4 py-1 px-3">For Rent</div>
+<div class="bg-white rounded-top text-primary position-absolute start-0 bottom-0 mx-4 pt-1 px-3">Apartment</div>
+</div>
+<div class="p-4 pb-0">
+<h5 class="text-primary mb-3">₦80,000,000</h5>
+<a class="d-block h5 mb-2 property-link" href="blank.html?id=apartment-015" data-id="apartment-015">Modern 5-Bedroom Apartment in Abuja</a>
+<p><i class="fa fa-map-marker-alt text-primary me-2"></i>Abuja</p>
+</div>
+</div>
+</div>
+</div>
+
+<div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.2s">
+<div class="property-card" data-status="for rent" data-type="Apartment" style="cursor:pointer;">
+<div class="property-item rounded overflow-hidden">
+<div class="position-relative overflow-hidden">
+<a href="blank.html?id=apartment-016" class="property-link" data-id="apartment-016"><img alt="Modern 7-Bedroom Apartment in Lagos" class="img-fluid" src="https://source.unsplash.com/600x400/?Modern%207-Bedroom%20Apartment%20in%20Lagos,Apartment,Lagos&amp;sig=7"/></a>
+<div class="bg-primary rounded text-white position-absolute start-0 top-0 m-4 py-1 px-3">For Rent</div>
+<div class="bg-white rounded-top text-primary position-absolute start-0 bottom-0 mx-4 pt-1 px-3">Apartment</div>
+</div>
+<div class="p-4 pb-0">
+<h5 class="text-primary mb-3">₦100,000,000</h5>
+<a class="d-block h5 mb-2 property-link" href="blank.html?id=apartment-016" data-id="apartment-016">Modern 7-Bedroom Apartment in Lagos</a>
+<p><i class="fa fa-map-marker-alt text-primary me-2"></i>Lagos</p>
+</div>
+</div>
+</div>
+</div>
+
+<div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
+<div class="property-card" data-status="for rent" data-type="Villa" style="cursor:pointer;">
+<div class="property-item rounded overflow-hidden">
+<div class="position-relative overflow-hidden">
+<a href="blank.html?id=villa-017" class="property-link" data-id="villa-017"><img alt="Expansive 1-Bedroom Villa with Garden Views, Lagos" class="img-fluid" src="https://source.unsplash.com/600x400/?Expansive%201-Bedroom%20Villa%20with%20Garden%20Views%2C%20Lagos,Villa,Lagos&amp;sig=11"/></a>
+<div class="bg-primary rounded text-white position-absolute start-0 top-0 m-4 py-1 px-3">For Rent</div>
+<div class="bg-white rounded-top text-primary position-absolute start-0 bottom-0 mx-4 pt-1 px-3">Villa</div>
+</div>
+<div class="p-4 pb-0">
+<h5 class="text-primary mb-3">₦650,000,000</h5>
+<a class="d-block h5 mb-2 property-link" href="blank.html?id=villa-017" data-id="villa-017">Expansive 1-Bedroom Villa with Garden Views, Lagos</a>
+<p><i class="fa fa-map-marker-alt text-primary me-2"></i>Lagos</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<!-- Property List End -->
+<!-- Testimonial Start -->
+<!-- <div class="container-xxl py-5">
+            <div class="container">
+                <div class="text-center mx-auto mb-5 wow fadeInUp" data-wow-delay="0.1s" style="max-width: 600px;">
+                    <h1 class="mb-3">Our Clients Say!</h1>
+                    <p>Eirmod sed ipsum dolor sit rebum labore magna erat. Tempor ut dolore lorem kasd vero ipsum sit eirmod sit. Ipsum diam justo sed rebum vero dolor duo.</p>
+                </div>
+                <div class="owl-carousel testimonial-carousel wow fadeInUp" data-wow-delay="0.1s">
+                    <div class="testimonial-item bg-light rounded p-3">
+                        <div class="bg-white border rounded p-4">
+                            <p>Tempor stet labore dolor clita stet diam amet ipsum dolor duo ipsum rebum stet dolor amet diam stet. Est stet ea lorem amet est kasd kasd erat eos</p>
+                            <div class="d-flex align-items-center">
+                                <img class="img-fluid flex-shrink-0 rounded" src="img/testimonial-1.jpg" style="width: 45px; height: 45px;">
+                                <div class="ps-3">
+                                    <h6 class="fw-bold mb-1">Client Name</h6>
+                                    <small>Profession</small>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="testimonial-item bg-light rounded p-3">
+                        <div class="bg-white border rounded p-4">
+                            <p>Tempor stet labore dolor clita stet diam amet ipsum dolor duo ipsum rebum stet dolor amet diam stet. Est stet ea lorem amet est kasd kasd erat eos</p>
+                            <div class="d-flex align-items-center">
+                                <img class="img-fluid flex-shrink-0 rounded" src="img/testimonial-2.jpg" style="width: 45px; height: 45px;">
+                                <div class="ps-3">
+                                    <h6 class="fw-bold mb-1">Client Name</h6>
+                                    <small>Profession</small>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="testimonial-item bg-light rounded p-3">
+                        <div class="bg-white border rounded p-4">
+                            <p>Tempor stet labore dolor clita stet diam amet ipsum dolor duo ipsum rebum stet dolor amet diam stet. Est stet ea lorem amet est kasd kasd erat eos</p>
+                            <div class="d-flex align-items-center">
+                                <img class="img-fluid flex-shrink-0 rounded" src="img/testimonial-3.jpg" style="width: 45px; height: 45px;">
+                                <div class="ps-3">
+                                    <h6 class="fw-bold mb-1">Client Name</h6>
+                                    <small>Profession</small>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div> -->
+<!-- Testimonial End -->
+<!-- Footer Start -->
+<div class="container-fluid bg-dark text-white-50 footer pt-5 mt-5 wow fadeIn" data-wow-delay="0.1s">
+<div class="container py-5">
+<div class="row g-5">
+<div class="col-lg-3 col-md-6">
+<h5 class="text-white mb-4">Get In Touch</h5>
+<p class="mb-2"><i class="fa fa-map-marker-alt me-3"></i> Nile University</p>
+<p class="mb-2"><i class="fa fa-phone-alt me-3"></i>0800-HomeX</p>
+<p class="mb-2"><i class="fa fa-envelope me-3"></i>help.homex@gmail.com</p>
+</div>
+<div class="col-lg-3 col-md-6">
+<h5 class="text-white mb-4">Quick Links</h5>
+<a class="btn btn-link text-white-50" href="contact.html">Contact Us</a>
+<a class="btn btn-link text-white-50" href="mortgage.html">Mortage Calculator</a>
+<a class="btn btn-link text-white-50" href="property-list.html">Properties</a>
+</div>
+<div class="col-lg-3 col-md-6">
+<h5 class="text-white mb-4">Photo Gallery</h5>
+<div class="row g-2 pt-2">
+<div class="col-4">
+<img alt="" class="img-fluid rounded bg-light p-1" src="img/property-1.jpg"/>
+</div>
+<div class="col-4">
+<img alt="" class="img-fluid rounded bg-light p-1" src="img/property-2.jpg"/>
+</div>
+<div class="col-4">
+<img alt="" class="img-fluid rounded bg-light p-1" src="img/property-3.jpg"/>
+</div>
+<div class="col-4">
+<img alt="" class="img-fluid rounded bg-light p-1" src="img/property-4.jpg"/>
+</div>
+<div class="col-4">
+<img alt="" class="img-fluid rounded bg-light p-1" src="img/property-5.jpg"/>
+</div>
+<div class="col-4">
+<img alt="" class="img-fluid rounded bg-light p-1" src="img/property-6.jpg"/>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<!-- Footer End -->
+<!-- Back to Top -->
+<a class="btn btn-lg btn-primary btn-lg-square back-to-top" href="#"><i class="bi bi-arrow-up"></i></a>
+</div>
+<!-- JavaScript Libraries -->
+<script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0/dist/js/bootstrap.bundle.min.js"></script>
+<script src="lib/wow/wow.min.js"></script>
+<script src="lib/easing/easing.min.js"></script>
+<script src="lib/waypoints/waypoints.min.js"></script>
+<script src="lib/owlcarousel/owl.carousel.min.js"></script>
+<script src="js/main.js"></script>
+
+<script src="js/property-filter.js"></script></body>
+</html>

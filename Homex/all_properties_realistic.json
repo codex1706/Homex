@@ -1,0 +1,402 @@
+[
+  {
+    "id": 7,
+    "type": "Apartment",
+    "title": "Luxury Seven-Bedroom Duplex with Lagoon Views, Lagos",
+    "location": "Lagos",
+    "status": "For Rent",
+    "price": "₦100,000,000",
+    "image": "img/apartments/apartment7.jpg",
+    "description": "Located in Lagos, this luxury seven-bedroom duplex with lagoon views, lagos boasts elegant design and superb amenities, including a fitness center and secure parking. It's an ideal choice for urban dwellers seeking for rent opportunities."
+  },
+  {
+    "id": 28,
+    "type": "Home",
+    "title": "Elegant Family Home with Fenced Yard, Port Harcourt",
+    "location": "Port Harcourt",
+    "status": "For Rent",
+    "price": "₦310,000,000",
+    "image": "img/home/home8.jpg",
+    "description": "Situated in the serene area of Port Harcourt, this family home offers a peaceful retreat with ample space, modern interiors, and lush outdoor surroundings. Perfect for long-term for rent."
+  },
+  {
+    "id": 63,
+    "type": "Shop",
+    "title": "Corner Retail Shop in Mile 1 Market, Port Harcourt",
+    "location": "Port Harcourt",
+    "status": "For Rent",
+    "price": "₦3,250,000,000",
+    "image": "img/shops/shop3.jpg",
+    "description": "High-visibility retail unit in Port Harcourt. This property offers excellent foot traffic, flexible interiors, and is best suited for boutique stores or specialty retailers. Available now for rent."
+  },
+  {
+    "id": 5,
+    "type": "Apartment",
+    "title": "Classic Five-Bedroom Urban Apartment in Maitama, Abuja",
+    "location": "Abuja",
+    "status": "For Rent",
+    "price": "₦80,000,000",
+    "image": "img/apartments/apartment5.jpg",
+    "description": "Located in Abuja, this classic five-bedroom urban apartment in maitama, abuja boasts elegant design and superb amenities, including a fitness center and secure parking. It's an ideal choice for urban dwellers seeking for rent opportunities."
+  },
+  {
+    "id": 27,
+    "type": "Home",
+    "title": "Renovated Family Villa with Green Lawn, Port Harcourt",
+    "location": "Port Harcourt",
+    "status": "For Sale",
+    "price": "₦300,000,000",
+    "image": "img/home/home7.jpg",
+    "description": "Situated in the serene area of Port Harcourt, this family home offers a peaceful retreat with ample space, modern interiors, and lush outdoor surroundings. Perfect for long-term for sale."
+  },
+  {
+    "id": 24,
+    "type": "Home",
+    "title": "Modern Family Residence with Flower Garden, Port Harcourt",
+    "location": "Port Harcourt",
+    "status": "For Sale",
+    "price": "₦270,000,000",
+    "image": "img/home/home4.jpg",
+    "description": "Situated in the serene area of Port Harcourt, this family home offers a peaceful retreat with ample space, modern interiors, and lush outdoor surroundings. Perfect for long-term for sale."
+  },
+  {
+    "id": 23,
+    "type": "Home",
+    "title": "Inviting Family House with Play Area in Gwarinpa, Abuja",
+    "location": "Abuja",
+    "status": "For Rent",
+    "price": "₦260,000,000",
+    "image": "img/home/home3.jpg",
+    "description": "Situated in the serene area of Abuja, this family home offers a peaceful retreat with ample space, modern interiors, and lush outdoor surroundings. Perfect for long-term for rent."
+  },
+  {
+    "id": 64,
+    "type": "Shop",
+    "title": "Fashion Storefront in Ikeja City Mall, Lagos",
+    "location": "Lagos",
+    "status": "For Sale",
+    "price": "₦3,300,000,000",
+    "image": "img/shops/shop4.jpg",
+    "description": "High-visibility retail unit in Lagos. This property offers excellent foot traffic, flexible interiors, and is best suited for boutique stores or specialty retailers. Available now for sale."
+  },
+  {
+    "id": 29,
+    "type": "Home",
+    "title": "Stylish Family Home with Pergola in Wuse, Abuja",
+    "location": "Abuja",
+    "status": "For Sale",
+    "price": "₦320,000,000",
+    "image": "img/home/home9.jpg",
+    "description": "Situated in the serene area of Abuja, this family home offers a peaceful retreat with ample space, modern interiors, and lush outdoor surroundings. Perfect for long-term for sale."
+  },
+  {
+    "id": 31,
+    "type": "Office",
+    "title": "Premium Office Suite in Port Harcourt Business District",
+    "location": "Port Harcourt",
+    "status": "For Sale",
+    "price": "₦1,650,000,000",
+    "image": "img/offices/office1.jpg",
+    "description": "Establish your business in this prime Port Harcourt office. With modern architecture, tech-ready facilities, and strategic location, it's ideal for companies looking to for sale high-value commercial space."
+  },
+  {
+    "id": 35,
+    "type": "Office",
+    "title": "Corporate Office Center in Central Area, Abuja",
+    "location": "Abuja",
+    "status": "For Rent",
+    "price": "₦1,850,000,000",
+    "image": "img/offices/office5.jpg",
+    "description": "Establish your business in this prime Abuja office. With modern architecture, tech-ready facilities, and strategic location, it's ideal for companies looking to for rent high-value commercial space."
+  },
+  {
+    "id": 3,
+    "type": "Apartment",
+    "title": "Spacious Three-Bedroom Suite Overlooking Ikoyi, Lagos",
+    "location": "Lagos",
+    "status": "For Rent",
+    "price": "₦60,000,000",
+    "image": "img/apartments/apartment3.jpg",
+    "description": "Located in Lagos, this spacious three-bedroom suite overlooking ikoyi, lagos boasts elegant design and superb amenities, including a fitness center and secure parking. It's an ideal choice for urban dwellers seeking for rent opportunities."
+  },
+  {
+    "id": 32,
+    "type": "Office",
+    "title": "Flexible Office Hub in Victoria Island, Lagos",
+    "location": "Lagos",
+    "status": "For Rent",
+    "price": "₦1,700,000,000",
+    "image": "img/offices/office2.jpg",
+    "description": "Establish your business in this prime Lagos office. With modern architecture, tech-ready facilities, and strategic location, it's ideal for companies looking to for rent high-value commercial space."
+  },
+  {
+    "id": 62,
+    "type": "Shop",
+    "title": "Trendy Retail Unit in Lekki Shopping Plaza, Lagos",
+    "location": "Lagos",
+    "status": "For Rent",
+    "price": "₦3,200,000,000",
+    "image": "img/shops/shop2.jpeg",
+    "description": "High-visibility retail unit in Lagos. This property offers excellent foot traffic, flexible interiors, and is best suited for boutique stores or specialty retailers. Available now for rent."
+  },
+  {
+    "id": 68,
+    "type": "Shop",
+    "title": "Large Retail Showroom in GRA, Port Harcourt",
+    "location": "Port Harcourt",
+    "status": "For Sale",
+    "price": "₦3,500,000,000",
+    "image": "img/shops/shop7.jpg",
+    "description": "High-visibility retail unit in Port Harcourt. This property offers excellent foot traffic, flexible interiors, and is best suited for boutique stores or specialty retailers. Available now for sale."
+  },
+  {
+    "id": 10,
+    "type": "Apartment",
+    "title": "Ultra-Modern Ten-Bedroom Sky Residence in Eko Atlantic, Lagos",
+    "location": "Lagos",
+    "status": "For Sale",
+    "price": "₦130,000,000",
+    "image": "img/apartments/apartment10.jpg",
+    "description": "Located in Lagos, this ultra-modern ten-bedroom sky residence in eko atlantic, lagos boasts elegant design and superb amenities, including a fitness center and secure parking. It's an ideal choice for urban dwellers seeking for sale opportunities."
+  },
+  {
+    "id": 36,
+    "type": "Office",
+    "title": "Boutique Office Loft in Ikoyi, Lagos",
+    "location": "Lagos",
+    "status": "For Rent",
+    "price": "₦1,900,000,000",
+    "image": "img/offices/office6.jpg",
+    "description": "Establish your business in this prime Lagos office. With modern architecture, tech-ready facilities, and strategic location, it's ideal for companies looking to for rent high-value commercial space."
+  },
+  {
+    "id": 69,
+    "type": "Shop",
+    "title": "Designer Retail Outlet in Jabi Lake Mall, Abuja",
+    "location": "Abuja",
+    "status": "For Rent",
+    "price": "₦3,550,000,000",
+    "image": "img/shops/shop8.jpg",
+    "description": "High-visibility retail unit in Abuja. This property offers excellent foot traffic, flexible interiors, and is best suited for boutique stores or specialty retailers. Available now for rent."
+  },
+  {
+    "id": 22,
+    "type": "Home",
+    "title": "Cozy Family Home with Private Backyard in Surulere, Lagos",
+    "location": "Lagos",
+    "status": "For Rent",
+    "price": "₦250,000,000",
+    "image": "img/home/home2.jpg",
+    "description": "Situated in the serene area of Lagos, this family home offers a peaceful retreat with ample space, modern interiors, and lush outdoor surroundings. Perfect for long-term for rent."
+  },
+  {
+    "id": 1,
+    "type": "Apartment",
+    "title": "Modern One-Bedroom Retreat in Port Harcourt City Center",
+    "location": "Port Harcourt",
+    "status": "For Rent",
+    "price": "₦40,000,000",
+    "image": "img/apartments/apartment1.jpg",
+    "description": "Located in Port Harcourt, this modern one-bedroom retreat in port harcourt city center boasts elegant design and superb amenities, including a fitness center and secure parking. It's an ideal choice for urban dwellers seeking for rent opportunities."
+  },
+  {
+    "id": 66,
+    "type": "Shop",
+    "title": "Boutique Retail Space on Olu Obasanjo Road, Port Harcourt",
+    "location": "Port Harcourt",
+    "status": "For Sale",
+    "price": "₦3,400,000,000",
+    "image": "img/shops/shop5.jpg",
+    "description": "High-visibility retail unit in Port Harcourt. This property offers excellent foot traffic, flexible interiors, and is best suited for boutique stores or specialty retailers. Available now for sale."
+  },
+  {
+    "id": 39,
+    "type": "Office",
+    "title": "Business Office Complex in Utako, Abuja",
+    "location": "Abuja",
+    "status": "For Sale",
+    "price": "₦2,050,000,000",
+    "image": "img/offices/office9.jpg",
+    "description": "Establish your business in this prime Abuja office. With modern architecture, tech-ready facilities, and strategic location, it's ideal for companies looking to for sale high-value commercial space."
+  },
+  {
+    "id": 70,
+    "type": "Shop",
+    "title": "Premium Shopping Unit in Wuse Zone 5, Abuja",
+    "location": "Abuja",
+    "status": "For Sale",
+    "price": "₦3,600,000,000",
+    "image": "img/shops/shop10.jpg",
+    "description": "High-visibility retail unit in Abuja. This property offers excellent foot traffic, flexible interiors, and is best suited for boutique stores or specialty retailers. Available now for sale."
+  },
+  {
+    "id": 67,
+    "type": "Shop",
+    "title": "Modern Retail Kiosk in Palms Mall, Lagos",
+    "location": "Lagos",
+    "status": "For Rent",
+    "price": "₦3,450,000,000",
+    "image": "img/shops/shop6.jpg",
+    "description": "High-visibility retail unit in Lagos. This property offers excellent foot traffic, flexible interiors, and is best suited for boutique stores or specialty retailers. Available now for rent."
+  },
+  {
+    "id": 33,
+    "type": "Office",
+    "title": "Executive Office Floor with City Views, Lagos",
+    "location": "Lagos",
+    "status": "For Sale",
+    "price": "₦1,750,000,000",
+    "image": "img/offices/office3.jpg",
+    "description": "Establish your business in this prime Lagos office. With modern architecture, tech-ready facilities, and strategic location, it's ideal for companies looking to for sale high-value commercial space."
+  },
+  {
+    "id": 6,
+    "type": "Apartment",
+    "title": "Expansive Six-Bedroom Penthouse in Asokoro, Abuja",
+    "location": "Abuja",
+    "status": "For Sale",
+    "price": "₦90,000,000",
+    "image": "img/apartments/apartment6.jpg",
+    "description": "Located in Abuja, this expansive six-bedroom penthouse in asokoro, abuja boasts elegant design and superb amenities, including a fitness center and secure parking. It's an ideal choice for urban dwellers seeking for sale opportunities."
+  },
+  {
+    "id": 2,
+    "type": "Apartment",
+    "title": "Contemporary Two-Bedroom Flat in Victoria Island, Lagos",
+    "location": "Lagos",
+    "status": "For Rent",
+    "price": "₦50,000,000",
+    "image": "img/apartments/apartment2.jpg",
+    "description": "Located in Lagos, this contemporary two-bedroom flat in victoria island, lagos boasts elegant design and superb amenities, including a fitness center and secure parking. It's an ideal choice for urban dwellers seeking for rent opportunities."
+  },
+  {
+    "id": 34,
+    "type": "Office",
+    "title": "Creative Workspace in Lekki Tech Park, Lagos",
+    "location": "Lagos",
+    "status": "For Rent",
+    "price": "₦1,800,000,000",
+    "image": "img/offices/office4.jpg",
+    "description": "Establish your business in this prime Lagos office. With modern architecture, tech-ready facilities, and strategic location, it's ideal for companies looking to for rent high-value commercial space."
+  },
+  {
+    "id": 30,
+    "type": "Home",
+    "title": "Bright Family Residence with Spacious Garden, Abuja",
+    "location": "Abuja",
+    "status": "For Rent",
+    "price": "₦330,000,000",
+    "image": "img/home/home10.jpg",
+    "description": "Situated in the serene area of Abuja, this family home offers a peaceful retreat with ample space, modern interiors, and lush outdoor surroundings. Perfect for long-term for rent."
+  },
+  {
+    "id": 4,
+    "type": "Apartment",
+    "title": "Elegant Four-Bedroom Residence in Lekki, Lagos",
+    "location": "Lagos",
+    "status": "For Sale",
+    "price": "₦70,000,000",
+    "image": "img/apartments/apartment4.jpg",
+    "description": "Located in Lagos, this elegant four-bedroom residence in lekki, lagos boasts elegant design and superb amenities, including a fitness center and secure parking. It's an ideal choice for urban dwellers seeking for sale opportunities."
+  },
+  {
+    "id": 21,
+    "type": "Home",
+    "title": "Charming Family Bungalow with Lush Garden in Ikeja, Lagos",
+    "location": "Lagos",
+    "status": "For Sale",
+    "price": "₦240,000,000",
+    "image": "img/home/home1.jpg",
+    "description": "Situated in the serene area of Lagos, this family home offers a peaceful retreat with ample space, modern interiors, and lush outdoor surroundings. Perfect for long-term for sale."
+  },
+  {
+    "id": 38,
+    "type": "Office",
+    "title": "High-Rise Office Space in Jabi, Abuja",
+    "location": "Abuja",
+    "status": "For Rent",
+    "price": "₦2,000,000,000",
+    "image": "img/offices/office8.jpg",
+    "description": "Establish your business in this prime Abuja office. With modern architecture, tech-ready facilities, and strategic location, it's ideal for companies looking to for rent high-value commercial space."
+  },
+  {
+    "id": 65,
+    "type": "Shop",
+    "title": "Pop-Up Shop in Surulere Shopping District, Lagos",
+    "location": "Lagos",
+    "status": "For Rent",
+    "price": "₦3,350,000,000",
+    "image": "img/shops/shop5.jpg",
+    "description": "High-visibility retail unit in Lagos. This property offers excellent foot traffic, flexible interiors, and is best suited for boutique stores or specialty retailers. Available now for rent."
+  },
+  {
+    "id": 26,
+    "type": "Home",
+    "title": "Spacious Family Home with Fruit Trees, Port Harcourt",
+    "location": "Port Harcourt",
+    "status": "For Rent",
+    "price": "₦290,000,000",
+    "image": "img/home/home6.jpg",
+    "description": "Situated in the serene area of Port Harcourt, this family home offers a peaceful retreat with ample space, modern interiors, and lush outdoor surroundings. Perfect for long-term for rent."
+  },
+  {
+    "id": 8,
+    "type": "Apartment",
+    "title": "Grand Eight-Bedroom Executive Apartment in GRA, Port Harcourt",
+    "location": "Port Harcourt",
+    "status": "For Sale",
+    "price": "₦110,000,000",
+    "image": "img/apartments/apartment8.jpg",
+    "description": "Located in Port Harcourt, this grand eight-bedroom executive apartment in gra, port harcourt boasts elegant design and superb amenities, including a fitness center and secure parking. It's an ideal choice for urban dwellers seeking for sale opportunities."
+  },
+  {
+    "id": 40,
+    "type": "Office",
+    "title": "Contemporary Office Suite in Garki, Abuja",
+    "location": "Abuja",
+    "status": "For Rent",
+    "price": "₦2,100,000,000",
+    "image": "img/offices/office10.jpg",
+    "description": "Establish your business in this prime Abuja office. With modern architecture, tech-ready facilities, and strategic location, it's ideal for companies looking to for rent high-value commercial space."
+  },
+  {
+    "id": 61,
+    "type": "Shop",
+    "title": "Prime Boutique Space in Central Abuja Mall",
+    "location": "Abuja",
+    "status": "For Sale",
+    "price": "₦3,150,000,000",
+    "image": "img/shops/shop1.jpeg",
+    "description": "High-visibility retail unit in Abuja. This property offers excellent foot traffic, flexible interiors, and is best suited for boutique stores or specialty retailers. Available now for sale."
+  },
+  {
+    "id": 37,
+    "type": "Office",
+    "title": "Professional Office Tower in Marina, Lagos",
+    "location": "Lagos",
+    "status": "For Sale",
+    "price": "₦1,950,000,000",
+    "image": "img/offices/office7.jpg",
+    "description": "Establish your business in this prime Lagos office. With modern architecture, tech-ready facilities, and strategic location, it's ideal for companies looking to for sale high-value commercial space."
+  },
+  {
+    "id": 25,
+    "type": "Home",
+    "title": "Sunlit Family Home with Outdoor Patio in Yaba, Lagos",
+    "location": "Lagos",
+    "status": "For Rent",
+    "price": "₦280,000,000",
+    "image": "img/home/home5.jpg",
+    "description": "Situated in the serene area of Lagos, this family home offers a peaceful retreat with ample space, modern interiors, and lush outdoor surroundings. Perfect for long-term for rent."
+  },
+  {
+    "id": 9,
+    "type": "Apartment",
+    "title": "Stunning Nine-Bedroom Palace Apartment in Banana Island, Lagos",
+    "location": "Lagos",
+    "status": "For Sale",
+    "price": "₦120,000,000",
+    "image": "img/apartments/apartment9.jpg",
+    "description": "Located in Lagos, this stunning nine-bedroom palace apartment in banana island, lagos boasts elegant design and superb amenities, including a fitness center and secure parking. It's an ideal choice for urban dwellers seeking for sale opportunities."
+  }
+]

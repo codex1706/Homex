@@ -1,0 +1,802 @@
+[
+  {
+    "id": 1,
+    "type": "Apartment",
+    "title": "Stylish 1-Bedroom Flat with Amenities in Port Harcourt",
+    "location": "Port Harcourt",
+    "status": "For Rent",
+    "price": "\u20a640,000,000",
+    "image": "img/generated/apartment.png",
+    "description": "This modern apartment in Port Harcourt is designed for comfort and convenience. Featuring spacious rooms, high ceilings, and top-notch appliances, it's perfect for young professionals or small families. The building includes 24/7 security, a gym, and secure parking. Currently for rent, this apartment offers city living at its finest."
+  },
+  {
+    "id": 2,
+    "type": "Apartment",
+    "title": "Modern 2-Bedroom Apartment in Lagos",
+    "location": "Lagos",
+    "status": "For Rent",
+    "price": "\u20a650,000,000",
+    "image": "img/generated/apartment.png",
+    "description": "This modern apartment in Lagos is designed for comfort and convenience. Featuring spacious rooms, high ceilings, and top-notch appliances, it's perfect for young professionals or small families. The building includes 24/7 security, a gym, and secure parking. Currently for rent, this apartment offers city living at its finest."
+  },
+  {
+    "id": 3,
+    "type": "Apartment",
+    "title": "Stylish 3-Bedroom Flat with Amenities in Lagos",
+    "location": "Lagos",
+    "status": "For Rent",
+    "price": "\u20a660,000,000",
+    "image": "img/generated/apartment.png",
+    "description": "This modern apartment in Lagos is designed for comfort and convenience. Featuring spacious rooms, high ceilings, and top-notch appliances, it's perfect for young professionals or small families. The building includes 24/7 security, a gym, and secure parking. Currently for rent, this apartment offers city living at its finest."
+  },
+  {
+    "id": 4,
+    "type": "Apartment",
+    "title": "Contemporary 4-Bedroom Apartment near City Center, Lagos",
+    "location": "Lagos",
+    "status": "For Sale",
+    "price": "\u20a670,000,000",
+    "image": "img/generated/apartment.png",
+    "description": "This modern apartment in Lagos is designed for comfort and convenience. Featuring spacious rooms, high ceilings, and top-notch appliances, it's perfect for young professionals or small families. The building includes 24/7 security, a gym, and secure parking. Currently for sale, this apartment offers city living at its finest."
+  },
+  {
+    "id": 5,
+    "type": "Apartment",
+    "title": "Modern 5-Bedroom Apartment in Abuja",
+    "location": "Abuja",
+    "status": "For Rent",
+    "price": "\u20a680,000,000",
+    "image": "img/generated/apartment.png",
+    "description": "This modern apartment in Abuja is designed for comfort and convenience. Featuring spacious rooms, high ceilings, and top-notch appliances, it's perfect for young professionals or small families. The building includes 24/7 security, a gym, and secure parking. Currently for rent, this apartment offers city living at its finest."
+  },
+  {
+    "id": 6,
+    "type": "Apartment",
+    "title": "Contemporary 6-Bedroom Apartment near City Center, Abuja",
+    "location": "Abuja",
+    "status": "For Sale",
+    "price": "\u20a690,000,000",
+    "image": "img/generated/apartment.png",
+    "description": "This modern apartment in Abuja is designed for comfort and convenience. Featuring spacious rooms, high ceilings, and top-notch appliances, it's perfect for young professionals or small families. The building includes 24/7 security, a gym, and secure parking. Currently for sale, this apartment offers city living at its finest."
+  },
+  {
+    "id": 7,
+    "type": "Apartment",
+    "title": "Modern 7-Bedroom Apartment in Lagos",
+    "location": "Lagos",
+    "status": "For Rent",
+    "price": "\u20a6100,000,000",
+    "image": "img/generated/apartment.png",
+    "description": "This modern apartment in Lagos is designed for comfort and convenience. Featuring spacious rooms, high ceilings, and top-notch appliances, it's perfect for young professionals or small families. The building includes 24/7 security, a gym, and secure parking. Currently for rent, this apartment offers city living at its finest."
+  },
+  {
+    "id": 8,
+    "type": "Apartment",
+    "title": "Modern 8-Bedroom Apartment in Port Harcourt",
+    "location": "Port Harcourt",
+    "status": "For Sale",
+    "price": "\u20a6110,000,000",
+    "image": "img/generated/apartment.png",
+    "description": "This modern apartment in Port Harcourt is designed for comfort and convenience. Featuring spacious rooms, high ceilings, and top-notch appliances, it's perfect for young professionals or small families. The building includes 24/7 security, a gym, and secure parking. Currently for sale, this apartment offers city living at its finest."
+  },
+  {
+    "id": 9,
+    "type": "Apartment",
+    "title": "Stylish 9-Bedroom Flat with Amenities in Lagos",
+    "location": "Lagos",
+    "status": "For Sale",
+    "price": "\u20a6120,000,000",
+    "image": "img/generated/apartment.png",
+    "description": "This modern apartment in Lagos is designed for comfort and convenience. Featuring spacious rooms, high ceilings, and top-notch appliances, it's perfect for young professionals or small families. The building includes 24/7 security, a gym, and secure parking. Currently for sale, this apartment offers city living at its finest."
+  },
+  {
+    "id": 10,
+    "type": "Apartment",
+    "title": "Modern 10-Bedroom Apartment in Lagos",
+    "location": "Lagos",
+    "status": "For Sale",
+    "price": "\u20a6130,000,000",
+    "image": "img/generated/apartment.png",
+    "description": "This modern apartment in Lagos is designed for comfort and convenience. Featuring spacious rooms, high ceilings, and top-notch appliances, it's perfect for young professionals or small families. The building includes 24/7 security, a gym, and secure parking. Currently for sale, this apartment offers city living at its finest."
+  },
+  {
+    "id": 11,
+    "type": "Villa",
+    "title": "Expansive 1-Bedroom Villa with Garden Views, Lagos",
+    "location": "Lagos",
+    "status": "For Rent",
+    "price": "\u20a6650,000,000",
+    "image": "img/generated/villa.png",
+    "description": "Located in the tranquil area of Lagos, this villa offers luxurious living with a private pool, landscaped gardens, and expansive interiors. The architectural design combines elegance and modernity, with large windows letting in natural light. Available for rent, it's ideal for upscale family life or a retreat home."
+  },
+  {
+    "id": 12,
+    "type": "Villa",
+    "title": "Luxury 2-Bedroom Villa with Private Pool in Port Harcourt",
+    "location": "Port Harcourt",
+    "status": "For Rent",
+    "price": "\u20a6700,000,000",
+    "image": "img/generated/villa.png",
+    "description": "Located in the tranquil area of Port Harcourt, this villa offers luxurious living with a private pool, landscaped gardens, and expansive interiors. The architectural design combines elegance and modernity, with large windows letting in natural light. Available for rent, it's ideal for upscale family life or a retreat home."
+  },
+  {
+    "id": 13,
+    "type": "Villa",
+    "title": "Expansive 3-Bedroom Villa with Garden Views, Lagos",
+    "location": "Lagos",
+    "status": "For Rent",
+    "price": "\u20a6750,000,000",
+    "image": "img/generated/villa.png",
+    "description": "Located in the tranquil area of Lagos, this villa offers luxurious living with a private pool, landscaped gardens, and expansive interiors. The architectural design combines elegance and modernity, with large windows letting in natural light. Available for rent, it's ideal for upscale family life or a retreat home."
+  },
+  {
+    "id": 14,
+    "type": "Villa",
+    "title": "Luxury 4-Bedroom Villa with Private Pool in Port Harcourt",
+    "location": "Port Harcourt",
+    "status": "For Sale",
+    "price": "\u20a6800,000,000",
+    "image": "img/generated/villa.png",
+    "description": "Located in the tranquil area of Port Harcourt, this villa offers luxurious living with a private pool, landscaped gardens, and expansive interiors. The architectural design combines elegance and modernity, with large windows letting in natural light. Available for sale, it's ideal for upscale family life or a retreat home."
+  },
+  {
+    "id": 15,
+    "type": "Villa",
+    "title": "Luxury 5-Bedroom Villa with Private Pool in Port Harcourt",
+    "location": "Port Harcourt",
+    "status": "For Sale",
+    "price": "\u20a6850,000,000",
+    "image": "img/generated/villa.png",
+    "description": "Located in the tranquil area of Port Harcourt, this villa offers luxurious living with a private pool, landscaped gardens, and expansive interiors. The architectural design combines elegance and modernity, with large windows letting in natural light. Available for sale, it's ideal for upscale family life or a retreat home."
+  },
+  {
+    "id": 16,
+    "type": "Villa",
+    "title": "Luxury 6-Bedroom Villa with Private Pool in Lagos",
+    "location": "Lagos",
+    "status": "For Sale",
+    "price": "\u20a6900,000,000",
+    "image": "img/generated/villa.png",
+    "description": "Located in the tranquil area of Lagos, this villa offers luxurious living with a private pool, landscaped gardens, and expansive interiors. The architectural design combines elegance and modernity, with large windows letting in natural light. Available for sale, it's ideal for upscale family life or a retreat home."
+  },
+  {
+    "id": 17,
+    "type": "Villa",
+    "title": "Expansive 7-Bedroom Villa with Garden Views, Lagos",
+    "location": "Lagos",
+    "status": "For Sale",
+    "price": "\u20a6950,000,000",
+    "image": "img/generated/villa.png",
+    "description": "Located in the tranquil area of Lagos, this villa offers luxurious living with a private pool, landscaped gardens, and expansive interiors. The architectural design combines elegance and modernity, with large windows letting in natural light. Available for sale, it's ideal for upscale family life or a retreat home."
+  },
+  {
+    "id": 18,
+    "type": "Villa",
+    "title": "Expansive 8-Bedroom Villa with Garden Views, Abuja",
+    "location": "Abuja",
+    "status": "For Sale",
+    "price": "\u20a61,000,000,000",
+    "image": "img/generated/villa.png",
+    "description": "Located in the tranquil area of Abuja, this villa offers luxurious living with a private pool, landscaped gardens, and expansive interiors. The architectural design combines elegance and modernity, with large windows letting in natural light. Available for sale, it's ideal for upscale family life or a retreat home."
+  },
+  {
+    "id": 19,
+    "type": "Villa",
+    "title": "Expansive 9-Bedroom Villa with Garden Views, Abuja",
+    "location": "Abuja",
+    "status": "For Sale",
+    "price": "\u20a61,050,000,000",
+    "image": "img/generated/villa.png",
+    "description": "Located in the tranquil area of Abuja, this villa offers luxurious living with a private pool, landscaped gardens, and expansive interiors. The architectural design combines elegance and modernity, with large windows letting in natural light. Available for sale, it's ideal for upscale family life or a retreat home."
+  },
+  {
+    "id": 20,
+    "type": "Villa",
+    "title": "Expansive 10-Bedroom Villa with Garden Views, Lagos",
+    "location": "Lagos",
+    "status": "For Sale",
+    "price": "\u20a61,100,000,000",
+    "image": "img/generated/villa.png",
+    "description": "Located in the tranquil area of Lagos, this villa offers luxurious living with a private pool, landscaped gardens, and expansive interiors. The architectural design combines elegance and modernity, with large windows letting in natural light. Available for sale, it's ideal for upscale family life or a retreat home."
+  },
+  {
+    "id": 21,
+    "type": "Home",
+    "title": "Affordable Family Residence Near Schools in Lagos",
+    "location": "Lagos",
+    "status": "For Sale",
+    "price": "\u20a6240,000,000",
+    "image": "img/generated/home.png",
+    "description": "This welcoming home in Lagos is the perfect match for a growing family. It features multiple bedrooms, a cozy living area, and a spacious kitchen with modern fittings. A backyard garden and parking space add to its charm. The property is currently for sale."
+  },
+  {
+    "id": 22,
+    "type": "Home",
+    "title": "Affordable Family Residence Near Schools in Lagos",
+    "location": "Lagos",
+    "status": "For Rent",
+    "price": "\u20a6250,000,000",
+    "image": "img/generated/home.png",
+    "description": "This welcoming home in Lagos is the perfect match for a growing family. It features multiple bedrooms, a cozy living area, and a spacious kitchen with modern fittings. A backyard garden and parking space add to its charm. The property is currently for rent."
+  },
+  {
+    "id": 23,
+    "type": "Home",
+    "title": "Family Home with Spacious Yard in Abuja",
+    "location": "Abuja",
+    "status": "For Rent",
+    "price": "\u20a6260,000,000",
+    "image": "img/generated/home.png",
+    "description": "This welcoming home in Abuja is the perfect match for a growing family. It features multiple bedrooms, a cozy living area, and a spacious kitchen with modern fittings. A backyard garden and parking space add to its charm. The property is currently for rent."
+  },
+  {
+    "id": 24,
+    "type": "Home",
+    "title": "Affordable Family Residence Near Schools in Port Harcourt",
+    "location": "Port Harcourt",
+    "status": "For Sale",
+    "price": "\u20a6270,000,000",
+    "image": "img/generated/home.png",
+    "description": "This welcoming home in Port Harcourt is the perfect match for a growing family. It features multiple bedrooms, a cozy living area, and a spacious kitchen with modern fittings. A backyard garden and parking space add to its charm. The property is currently for sale."
+  },
+  {
+    "id": 25,
+    "type": "Home",
+    "title": "Cozy 3-Bedroom Home with Modern Kitchen in Lagos",
+    "location": "Lagos",
+    "status": "For Rent",
+    "price": "\u20a6280,000,000",
+    "image": "img/generated/home.png",
+    "description": "This welcoming home in Lagos is the perfect match for a growing family. It features multiple bedrooms, a cozy living area, and a spacious kitchen with modern fittings. A backyard garden and parking space add to its charm. The property is currently for rent."
+  },
+  {
+    "id": 26,
+    "type": "Home",
+    "title": "Cozy 3-Bedroom Home with Modern Kitchen in Port Harcourt",
+    "location": "Port Harcourt",
+    "status": "For Rent",
+    "price": "\u20a6290,000,000",
+    "image": "img/generated/home.png",
+    "description": "This welcoming home in Port Harcourt is the perfect match for a growing family. It features multiple bedrooms, a cozy living area, and a spacious kitchen with modern fittings. A backyard garden and parking space add to its charm. The property is currently for rent."
+  },
+  {
+    "id": 27,
+    "type": "Home",
+    "title": "Family Home with Spacious Yard in Port Harcourt",
+    "location": "Port Harcourt",
+    "status": "For Sale",
+    "price": "\u20a6300,000,000",
+    "image": "img/generated/home.png",
+    "description": "This welcoming home in Port Harcourt is the perfect match for a growing family. It features multiple bedrooms, a cozy living area, and a spacious kitchen with modern fittings. A backyard garden and parking space add to its charm. The property is currently for sale."
+  },
+  {
+    "id": 28,
+    "type": "Home",
+    "title": "Affordable Family Residence Near Schools in Port Harcourt",
+    "location": "Port Harcourt",
+    "status": "For Rent",
+    "price": "\u20a6310,000,000",
+    "image": "img/generated/home.png",
+    "description": "This welcoming home in Port Harcourt is the perfect match for a growing family. It features multiple bedrooms, a cozy living area, and a spacious kitchen with modern fittings. A backyard garden and parking space add to its charm. The property is currently for rent."
+  },
+  {
+    "id": 29,
+    "type": "Home",
+    "title": "Family Home with Spacious Yard in Abuja",
+    "location": "Abuja",
+    "status": "For Sale",
+    "price": "\u20a6320,000,000",
+    "image": "img/generated/home.png",
+    "description": "This welcoming home in Abuja is the perfect match for a growing family. It features multiple bedrooms, a cozy living area, and a spacious kitchen with modern fittings. A backyard garden and parking space add to its charm. The property is currently for sale."
+  },
+  {
+    "id": 30,
+    "type": "Home",
+    "title": "Cozy 3-Bedroom Home with Modern Kitchen in Abuja",
+    "location": "Abuja",
+    "status": "For Rent",
+    "price": "\u20a6330,000,000",
+    "image": "img/generated/home.png",
+    "description": "This welcoming home in Abuja is the perfect match for a growing family. It features multiple bedrooms, a cozy living area, and a spacious kitchen with modern fittings. A backyard garden and parking space add to its charm. The property is currently for rent."
+  },
+  {
+    "id": 31,
+    "type": "Office",
+    "title": "Executive Office Space in Prime Port Harcourt Business District",
+    "location": "Port Harcourt",
+    "status": "For Sale",
+    "price": "\u20a61,650,000,000",
+    "image": "img/generated/office.png",
+    "description": "Boost your business in this strategically located office space in Port Harcourt. The property features large open-plan areas, private meeting rooms, and modern infrastructure. Its central location ensures visibility and accessibility. This office is now for sale and ready for immediate setup."
+  },
+  {
+    "id": 32,
+    "type": "Office",
+    "title": "Spacious Office Floor with Meeting Rooms \u2013 Lagos",
+    "location": "Lagos",
+    "status": "For Rent",
+    "price": "\u20a61,700,000,000",
+    "image": "img/generated/office.png",
+    "description": "Boost your business in this strategically located office space in Lagos. The property features large open-plan areas, private meeting rooms, and modern infrastructure. Its central location ensures visibility and accessibility. This office is now for rent and ready for immediate setup."
+  },
+  {
+    "id": 33,
+    "type": "Office",
+    "title": "Executive Office Space in Prime Lagos Business District",
+    "location": "Lagos",
+    "status": "For Sale",
+    "price": "\u20a61,750,000,000",
+    "image": "img/generated/office.png",
+    "description": "Boost your business in this strategically located office space in Lagos. The property features large open-plan areas, private meeting rooms, and modern infrastructure. Its central location ensures visibility and accessibility. This office is now for sale and ready for immediate setup."
+  },
+  {
+    "id": 34,
+    "type": "Office",
+    "title": "Commercial Office Block with Parking \u2013 Lagos",
+    "location": "Lagos",
+    "status": "For Rent",
+    "price": "\u20a61,800,000,000",
+    "image": "img/generated/office.png",
+    "description": "Boost your business in this strategically located office space in Lagos. The property features large open-plan areas, private meeting rooms, and modern infrastructure. Its central location ensures visibility and accessibility. This office is now for rent and ready for immediate setup."
+  },
+  {
+    "id": 35,
+    "type": "Office",
+    "title": "Spacious Office Floor with Meeting Rooms \u2013 Abuja",
+    "location": "Abuja",
+    "status": "For Rent",
+    "price": "\u20a61,850,000,000",
+    "image": "img/generated/office.png",
+    "description": "Boost your business in this strategically located office space in Abuja. The property features large open-plan areas, private meeting rooms, and modern infrastructure. Its central location ensures visibility and accessibility. This office is now for rent and ready for immediate setup."
+  },
+  {
+    "id": 36,
+    "type": "Office",
+    "title": "Executive Office Space in Prime Lagos Business District",
+    "location": "Lagos",
+    "status": "For Rent",
+    "price": "\u20a61,900,000,000",
+    "image": "img/generated/office.png",
+    "description": "Boost your business in this strategically located office space in Lagos. The property features large open-plan areas, private meeting rooms, and modern infrastructure. Its central location ensures visibility and accessibility. This office is now for rent and ready for immediate setup."
+  },
+  {
+    "id": 37,
+    "type": "Office",
+    "title": "Commercial Office Block with Parking \u2013 Lagos",
+    "location": "Lagos",
+    "status": "For Sale",
+    "price": "\u20a61,950,000,000",
+    "image": "img/generated/office.png",
+    "description": "Boost your business in this strategically located office space in Lagos. The property features large open-plan areas, private meeting rooms, and modern infrastructure. Its central location ensures visibility and accessibility. This office is now for sale and ready for immediate setup."
+  },
+  {
+    "id": 38,
+    "type": "Office",
+    "title": "Executive Office Space in Prime Abuja Business District",
+    "location": "Abuja",
+    "status": "For Rent",
+    "price": "\u20a62,000,000,000",
+    "image": "img/generated/office.png",
+    "description": "Boost your business in this strategically located office space in Abuja. The property features large open-plan areas, private meeting rooms, and modern infrastructure. Its central location ensures visibility and accessibility. This office is now for rent and ready for immediate setup."
+  },
+  {
+    "id": 39,
+    "type": "Office",
+    "title": "Commercial Office Block with Parking \u2013 Abuja",
+    "location": "Abuja",
+    "status": "For Sale",
+    "price": "\u20a62,050,000,000",
+    "image": "img/generated/office.png",
+    "description": "Boost your business in this strategically located office space in Abuja. The property features large open-plan areas, private meeting rooms, and modern infrastructure. Its central location ensures visibility and accessibility. This office is now for sale and ready for immediate setup."
+  },
+  {
+    "id": 40,
+    "type": "Office",
+    "title": "Spacious Office Floor with Meeting Rooms \u2013 Abuja",
+    "location": "Abuja",
+    "status": "For Rent",
+    "price": "\u20a62,100,000,000",
+    "image": "img/generated/office.png",
+    "description": "Boost your business in this strategically located office space in Abuja. The property features large open-plan areas, private meeting rooms, and modern infrastructure. Its central location ensures visibility and accessibility. This office is now for rent and ready for immediate setup."
+  },
+  {
+    "id": 41,
+    "type": "Building",
+    "title": "Investment Property: Full Commercial Complex in Port Harcourt",
+    "location": "Port Harcourt",
+    "status": "For Rent",
+    "price": "\u20a6215,000,000",
+    "image": "img/generated/apartment.png",
+    "description": "An exceptional commercial building located in Port Harcourt, ideal for investors or businesses. Comprising multiple floors with modular spaces, elevators, and fire safety systems. Its location ensures high footfall and visibility. The building is currently for rent."
+  },
+  {
+    "id": 42,
+    "type": "Building",
+    "title": "Downtown Commercial Block with Rental Units \u2013 Port Harcourt",
+    "location": "Port Harcourt",
+    "status": "For Sale",
+    "price": "\u20a6220,000,000",
+    "image": "img/generated/apartment.png",
+    "description": "An exceptional commercial building located in Port Harcourt, ideal for investors or businesses. Comprising multiple floors with modular spaces, elevators, and fire safety systems. Its location ensures high footfall and visibility. The building is currently for sale."
+  },
+  {
+    "id": 43,
+    "type": "Building",
+    "title": "Downtown Commercial Block with Rental Units \u2013 Port Harcourt",
+    "location": "Port Harcourt",
+    "status": "For Sale",
+    "price": "\u20a6225,000,000",
+    "image": "img/generated/apartment.png",
+    "description": "An exceptional commercial building located in Port Harcourt, ideal for investors or businesses. Comprising multiple floors with modular spaces, elevators, and fire safety systems. Its location ensures high footfall and visibility. The building is currently for sale."
+  },
+  {
+    "id": 44,
+    "type": "Building",
+    "title": "Downtown Commercial Block with Rental Units \u2013 Abuja",
+    "location": "Abuja",
+    "status": "For Sale",
+    "price": "\u20a6230,000,000",
+    "image": "img/generated/apartment.png",
+    "description": "An exceptional commercial building located in Abuja, ideal for investors or businesses. Comprising multiple floors with modular spaces, elevators, and fire safety systems. Its location ensures high footfall and visibility. The building is currently for sale."
+  },
+  {
+    "id": 45,
+    "type": "Building",
+    "title": "Investment Property: Full Commercial Complex in Abuja",
+    "location": "Abuja",
+    "status": "For Rent",
+    "price": "\u20a6235,000,000",
+    "image": "img/generated/apartment.png",
+    "description": "An exceptional commercial building located in Abuja, ideal for investors or businesses. Comprising multiple floors with modular spaces, elevators, and fire safety systems. Its location ensures high footfall and visibility. The building is currently for rent."
+  },
+  {
+    "id": 46,
+    "type": "Building",
+    "title": "Investment Property: Full Commercial Complex in Lagos",
+    "location": "Lagos",
+    "status": "For Sale",
+    "price": "\u20a6240,000,000",
+    "image": "img/generated/apartment.png",
+    "description": "An exceptional commercial building located in Lagos, ideal for investors or businesses. Comprising multiple floors with modular spaces, elevators, and fire safety systems. Its location ensures high footfall and visibility. The building is currently for sale."
+  },
+  {
+    "id": 47,
+    "type": "Building",
+    "title": "Multi-Storey Commercial Building with Office Suites \u2013 Lagos",
+    "location": "Lagos",
+    "status": "For Sale",
+    "price": "\u20a6245,000,000",
+    "image": "img/generated/apartment.png",
+    "description": "An exceptional commercial building located in Lagos, ideal for investors or businesses. Comprising multiple floors with modular spaces, elevators, and fire safety systems. Its location ensures high footfall and visibility. The building is currently for sale."
+  },
+  {
+    "id": 48,
+    "type": "Building",
+    "title": "Downtown Commercial Block with Rental Units \u2013 Abuja",
+    "location": "Abuja",
+    "status": "For Rent",
+    "price": "\u20a6250,000,000",
+    "image": "img/generated/apartment.png",
+    "description": "An exceptional commercial building located in Abuja, ideal for investors or businesses. Comprising multiple floors with modular spaces, elevators, and fire safety systems. Its location ensures high footfall and visibility. The building is currently for rent."
+  },
+  {
+    "id": 49,
+    "type": "Building",
+    "title": "Downtown Commercial Block with Rental Units \u2013 Abuja",
+    "location": "Abuja",
+    "status": "For Sale",
+    "price": "\u20a6255,000,000",
+    "image": "img/generated/apartment.png",
+    "description": "An exceptional commercial building located in Abuja, ideal for investors or businesses. Comprising multiple floors with modular spaces, elevators, and fire safety systems. Its location ensures high footfall and visibility. The building is currently for sale."
+  },
+  {
+    "id": 50,
+    "type": "Building",
+    "title": "Investment Property: Full Commercial Complex in Abuja",
+    "location": "Abuja",
+    "status": "For Sale",
+    "price": "\u20a6260,000,000",
+    "image": "img/generated/apartment.png",
+    "description": "An exceptional commercial building located in Abuja, ideal for investors or businesses. Comprising multiple floors with modular spaces, elevators, and fire safety systems. Its location ensures high footfall and visibility. The building is currently for sale."
+  },
+  {
+    "id": 51,
+    "type": "Townhouse",
+    "title": "3-Storey Townhouse in Quiet Residential Area \u2013 Lagos",
+    "location": "Lagos",
+    "status": "For Rent",
+    "price": "\u20a6265,000,000",
+    "image": "img/generated/apartment.png",
+    "description": "This elegant townhouse in Lagos offers a harmonious blend of style and functionality. With sleek interiors, private parking, and rooftop access, it suits both professionals and families. The property is currently for rent, providing great value in a prime neighborhood."
+  },
+  {
+    "id": 52,
+    "type": "Townhouse",
+    "title": "Stylish Townhouse with Rooftop Access in Abuja",
+    "location": "Abuja",
+    "status": "For Rent",
+    "price": "\u20a6270,000,000",
+    "image": "img/generated/apartment.png",
+    "description": "This elegant townhouse in Abuja offers a harmonious blend of style and functionality. With sleek interiors, private parking, and rooftop access, it suits both professionals and families. The property is currently for rent, providing great value in a prime neighborhood."
+  },
+  {
+    "id": 53,
+    "type": "Townhouse",
+    "title": "Stylish Townhouse with Rooftop Access in Port Harcourt",
+    "location": "Port Harcourt",
+    "status": "For Sale",
+    "price": "\u20a6275,000,000",
+    "image": "img/generated/apartment.png",
+    "description": "This elegant townhouse in Port Harcourt offers a harmonious blend of style and functionality. With sleek interiors, private parking, and rooftop access, it suits both professionals and families. The property is currently for sale, providing great value in a prime neighborhood."
+  },
+  {
+    "id": 54,
+    "type": "Townhouse",
+    "title": "Stylish Townhouse with Rooftop Access in Port Harcourt",
+    "location": "Port Harcourt",
+    "status": "For Sale",
+    "price": "\u20a6280,000,000",
+    "image": "img/generated/apartment.png",
+    "description": "This elegant townhouse in Port Harcourt offers a harmonious blend of style and functionality. With sleek interiors, private parking, and rooftop access, it suits both professionals and families. The property is currently for sale, providing great value in a prime neighborhood."
+  },
+  {
+    "id": 55,
+    "type": "Townhouse",
+    "title": "Stylish Townhouse with Rooftop Access in Lagos",
+    "location": "Lagos",
+    "status": "For Sale",
+    "price": "\u20a6285,000,000",
+    "image": "img/generated/apartment.png",
+    "description": "This elegant townhouse in Lagos offers a harmonious blend of style and functionality. With sleek interiors, private parking, and rooftop access, it suits both professionals and families. The property is currently for sale, providing great value in a prime neighborhood."
+  },
+  {
+    "id": 56,
+    "type": "Townhouse",
+    "title": "Stylish Townhouse with Rooftop Access in Lagos",
+    "location": "Lagos",
+    "status": "For Sale",
+    "price": "\u20a6290,000,000",
+    "image": "img/generated/apartment.png",
+    "description": "This elegant townhouse in Lagos offers a harmonious blend of style and functionality. With sleek interiors, private parking, and rooftop access, it suits both professionals and families. The property is currently for sale, providing great value in a prime neighborhood."
+  },
+  {
+    "id": 57,
+    "type": "Townhouse",
+    "title": "3-Storey Townhouse in Quiet Residential Area \u2013 Abuja",
+    "location": "Abuja",
+    "status": "For Sale",
+    "price": "\u20a6295,000,000",
+    "image": "img/generated/apartment.png",
+    "description": "This elegant townhouse in Abuja offers a harmonious blend of style and functionality. With sleek interiors, private parking, and rooftop access, it suits both professionals and families. The property is currently for sale, providing great value in a prime neighborhood."
+  },
+  {
+    "id": 58,
+    "type": "Townhouse",
+    "title": "Stylish Townhouse with Rooftop Access in Port Harcourt",
+    "location": "Port Harcourt",
+    "status": "For Rent",
+    "price": "\u20a6300,000,000",
+    "image": "img/generated/apartment.png",
+    "description": "This elegant townhouse in Port Harcourt offers a harmonious blend of style and functionality. With sleek interiors, private parking, and rooftop access, it suits both professionals and families. The property is currently for rent, providing great value in a prime neighborhood."
+  },
+  {
+    "id": 59,
+    "type": "Townhouse",
+    "title": "Stylish Townhouse with Rooftop Access in Lagos",
+    "location": "Lagos",
+    "status": "For Rent",
+    "price": "\u20a6305,000,000",
+    "image": "img/generated/apartment.png",
+    "description": "This elegant townhouse in Lagos offers a harmonious blend of style and functionality. With sleek interiors, private parking, and rooftop access, it suits both professionals and families. The property is currently for rent, providing great value in a prime neighborhood."
+  },
+  {
+    "id": 60,
+    "type": "Townhouse",
+    "title": "3-Storey Townhouse in Quiet Residential Area \u2013 Port Harcourt",
+    "location": "Port Harcourt",
+    "status": "For Rent",
+    "price": "\u20a6310,000,000",
+    "image": "img/generated/apartment.png",
+    "description": "This elegant townhouse in Port Harcourt offers a harmonious blend of style and functionality. With sleek interiors, private parking, and rooftop access, it suits both professionals and families. The property is currently for rent, providing great value in a prime neighborhood."
+  },
+  {
+    "id": 61,
+    "type": "Shop",
+    "title": "Prime Commercial Retail Unit for Business in Abuja",
+    "location": "Abuja",
+    "status": "For Sale",
+    "price": "\u20a63,150,000,000",
+    "image": "img/generated/shop.png",
+    "description": "Retailers will appreciate this commercial shop space in the bustling heart of Abuja. Featuring an open front, high ceilings, and ample lighting, it's perfect for boutiques or cafes. This shop is now for sale."
+  },
+  {
+    "id": 62,
+    "type": "Shop",
+    "title": "Prime Commercial Retail Unit for Business in Lagos",
+    "location": "Lagos",
+    "status": "For Rent",
+    "price": "\u20a63,200,000,000",
+    "image": "img/generated/shop.png",
+    "description": "Retailers will appreciate this commercial shop space in the bustling heart of Lagos. Featuring an open front, high ceilings, and ample lighting, it's perfect for boutiques or cafes. This shop is now for rent."
+  },
+  {
+    "id": 63,
+    "type": "Shop",
+    "title": "Retail Shopfront in Busy Market Area \u2013 Port Harcourt",
+    "location": "Port Harcourt",
+    "status": "For Rent",
+    "price": "\u20a63,250,000,000",
+    "image": "img/generated/shop.png",
+    "description": "Retailers will appreciate this commercial shop space in the bustling heart of Port Harcourt. Featuring an open front, high ceilings, and ample lighting, it's perfect for boutiques or cafes. This shop is now for rent."
+  },
+  {
+    "id": 64,
+    "type": "Shop",
+    "title": "Open-Plan Retail Shop with Display Windows \u2013 Lagos",
+    "location": "Lagos",
+    "status": "For Sale",
+    "price": "\u20a63,300,000,000",
+    "image": "img/generated/shop.png",
+    "description": "Retailers will appreciate this commercial shop space in the bustling heart of Lagos. Featuring an open front, high ceilings, and ample lighting, it's perfect for boutiques or cafes. This shop is now for sale."
+  },
+  {
+    "id": 65,
+    "type": "Shop",
+    "title": "Prime Commercial Retail Unit for Business in Lagos",
+    "location": "Lagos",
+    "status": "For Rent",
+    "price": "\u20a63,350,000,000",
+    "image": "img/generated/shop.png",
+    "description": "Retailers will appreciate this commercial shop space in the bustling heart of Lagos. Featuring an open front, high ceilings, and ample lighting, it's perfect for boutiques or cafes. This shop is now for rent."
+  },
+  {
+    "id": 66,
+    "type": "Shop",
+    "title": "Retail Shopfront in Busy Market Area \u2013 Port Harcourt",
+    "location": "Port Harcourt",
+    "status": "For Sale",
+    "price": "\u20a63,400,000,000",
+    "image": "img/generated/shop.png",
+    "description": "Retailers will appreciate this commercial shop space in the bustling heart of Port Harcourt. Featuring an open front, high ceilings, and ample lighting, it's perfect for boutiques or cafes. This shop is now for sale."
+  },
+  {
+    "id": 67,
+    "type": "Shop",
+    "title": "Open-Plan Retail Shop with Display Windows \u2013 Lagos",
+    "location": "Lagos",
+    "status": "For Rent",
+    "price": "\u20a63,450,000,000",
+    "image": "img/generated/shop.png",
+    "description": "Retailers will appreciate this commercial shop space in the bustling heart of Lagos. Featuring an open front, high ceilings, and ample lighting, it's perfect for boutiques or cafes. This shop is now for rent."
+  },
+  {
+    "id": 68,
+    "type": "Shop",
+    "title": "Prime Commercial Retail Unit for Business in Port Harcourt",
+    "location": "Port Harcourt",
+    "status": "For Sale",
+    "price": "\u20a63,500,000,000",
+    "image": "img/generated/shop.png",
+    "description": "Retailers will appreciate this commercial shop space in the bustling heart of Port Harcourt. Featuring an open front, high ceilings, and ample lighting, it's perfect for boutiques or cafes. This shop is now for sale."
+  },
+  {
+    "id": 69,
+    "type": "Shop",
+    "title": "Open-Plan Retail Shop with Display Windows \u2013 Abuja",
+    "location": "Abuja",
+    "status": "For Rent",
+    "price": "\u20a63,550,000,000",
+    "image": "img/generated/shop.png",
+    "description": "Retailers will appreciate this commercial shop space in the bustling heart of Abuja. Featuring an open front, high ceilings, and ample lighting, it's perfect for boutiques or cafes. This shop is now for rent."
+  },
+  {
+    "id": 70,
+    "type": "Shop",
+    "title": "Open-Plan Retail Shop with Display Windows \u2013 Abuja",
+    "location": "Abuja",
+    "status": "For Sale",
+    "price": "\u20a63,600,000,000",
+    "image": "img/generated/shop.png",
+    "description": "Retailers will appreciate this commercial shop space in the bustling heart of Abuja. Featuring an open front, high ceilings, and ample lighting, it's perfect for boutiques or cafes. This shop is now for sale."
+  },
+  {
+    "id": 71,
+    "type": "Garage",
+    "title": "Spacious Vehicle Garage in Central Abuja",
+    "location": "Abuja",
+    "status": "For Rent",
+    "price": "\u20a6365,000,000",
+    "image": "img/generated/garage.png",
+    "description": "Secure your vehicles or storage with this spacious garage in Abuja. Featuring robust doors, lighting, and easy road access. Ideal for private use or rental. The garage is for rent and immediately accessible."
+  },
+  {
+    "id": 72,
+    "type": "Garage",
+    "title": "Covered Garage Unit for Sale in Abuja",
+    "location": "Abuja",
+    "status": "For Sale",
+    "price": "\u20a6370,000,000",
+    "image": "img/generated/garage.png",
+    "description": "Secure your vehicles or storage with this spacious garage in Abuja. Featuring robust doors, lighting, and easy road access. Ideal for private use or rental. The garage is for sale and immediately accessible."
+  },
+  {
+    "id": 73,
+    "type": "Garage",
+    "title": "Secure Private Garage with Easy Access \u2013 Abuja",
+    "location": "Abuja",
+    "status": "For Sale",
+    "price": "\u20a6375,000,000",
+    "image": "img/generated/garage.png",
+    "description": "Secure your vehicles or storage with this spacious garage in Abuja. Featuring robust doors, lighting, and easy road access. Ideal for private use or rental. The garage is for sale and immediately accessible."
+  },
+  {
+    "id": 74,
+    "type": "Garage",
+    "title": "Secure Private Garage with Easy Access \u2013 Abuja",
+    "location": "Abuja",
+    "status": "For Rent",
+    "price": "\u20a6380,000,000",
+    "image": "img/generated/garage.png",
+    "description": "Secure your vehicles or storage with this spacious garage in Abuja. Featuring robust doors, lighting, and easy road access. Ideal for private use or rental. The garage is for rent and immediately accessible."
+  },
+  {
+    "id": 75,
+    "type": "Garage",
+    "title": "Spacious Vehicle Garage in Central Port Harcourt",
+    "location": "Port Harcourt",
+    "status": "For Sale",
+    "price": "\u20a6385,000,000",
+    "image": "img/generated/garage.png",
+    "description": "Secure your vehicles or storage with this spacious garage in Port Harcourt. Featuring robust doors, lighting, and easy road access. Ideal for private use or rental. The garage is for sale and immediately accessible."
+  },
+  {
+    "id": 76,
+    "type": "Garage",
+    "title": "Spacious Vehicle Garage in Central Port Harcourt",
+    "location": "Port Harcourt",
+    "status": "For Rent",
+    "price": "\u20a6390,000,000",
+    "image": "img/generated/garage.png",
+    "description": "Secure your vehicles or storage with this spacious garage in Port Harcourt. Featuring robust doors, lighting, and easy road access. Ideal for private use or rental. The garage is for rent and immediately accessible."
+  },
+  {
+    "id": 77,
+    "type": "Garage",
+    "title": "Covered Garage Unit for Sale in Lagos",
+    "location": "Lagos",
+    "status": "For Sale",
+    "price": "\u20a6395,000,000",
+    "image": "img/generated/garage.png",
+    "description": "Secure your vehicles or storage with this spacious garage in Lagos. Featuring robust doors, lighting, and easy road access. Ideal for private use or rental. The garage is for sale and immediately accessible."
+  },
+  {
+    "id": 78,
+    "type": "Garage",
+    "title": "Spacious Vehicle Garage in Central Port Harcourt",
+    "location": "Port Harcourt",
+    "status": "For Rent",
+    "price": "\u20a6400,000,000",
+    "image": "img/generated/garage.png",
+    "description": "Secure your vehicles or storage with this spacious garage in Port Harcourt. Featuring robust doors, lighting, and easy road access. Ideal for private use or rental. The garage is for rent and immediately accessible."
+  },
+  {
+    "id": 79,
+    "type": "Garage",
+    "title": "Covered Garage Unit for Sale in Abuja",
+    "location": "Abuja",
+    "status": "For Sale",
+    "price": "\u20a6405,000,000",
+    "image": "img/generated/garage.png",
+    "description": "Secure your vehicles or storage with this spacious garage in Abuja. Featuring robust doors, lighting, and easy road access. Ideal for private use or rental. The garage is for sale and immediately accessible."
+  },
+  {
+    "id": 80,
+    "type": "Garage",
+    "title": "Covered Garage Unit for Sale in Abuja",
+    "location": "Abuja",
+    "status": "For Rent",
+    "price": "\u20a6410,000,000",
+    "image": "img/generated/garage.png",
+    "description": "Secure your vehicles or storage with this spacious garage in Abuja. Featuring robust doors, lighting, and easy road access. Ideal for private use or rental. The garage is for rent and immediately accessible."
+  }
+]

@@ -1,0 +1,56 @@
+[
+    {
+        "id": "apartment-001",
+        "title": "Modern 2-Bedroom Apartment in Lagos",
+        "location": "Lagos",
+        "price": "\u20a650,000,000",
+        "description": "A modern 2-bedroom apartment located in a prime area of Lagos.",
+        "image": "img/generated/apartment.png",
+        "phone": "08031234567"
+    },
+    {
+        "id": "home-001",
+        "title": "Spacious 4-Bedroom Family Home in Abuja",
+        "location": "Abuja",
+        "price": "\u20a6120,000,000",
+        "description": "A spacious and comfortable family home in a serene Abuja neighborhood.",
+        "image": "img/generated/home.png",
+        "phone": "08039876543"
+    },
+    {
+        "id": "villa-002",
+        "title": "Luxury 5-Bedroom Villa with Private Pool in Port Harcourt",
+        "location": "Port Harcourt",
+        "price": "\u20a6800,000,000",
+        "description": "An exquisite 5-bedroom villa featuring a private pool and premium finishes.",
+        "image": "img/generated/villa.png",
+        "phone": "08024561234"
+    },
+    {
+        "id": "office-003",
+        "title": "Modern Office Space in Victoria Island",
+        "location": "Lagos",
+        "price": "\u20a6250,000/month",
+        "description": "Fully serviced office space in the heart of Victoria Island.",
+        "image": "img/generated/office.png",
+        "phone": "08015438762"
+    },
+    {
+        "id": "shop-004",
+        "title": "Prime Retail Shop in Wuse Market",
+        "location": "Abuja",
+        "price": "\u20a6180,000/month",
+        "description": "A high-traffic retail shop ideally situated in Wuse Market.",
+        "image": "img/generated/shop.png",
+        "phone": "08096543210"
+    },
+    {
+        "id": "garage-005",
+        "title": "Secure Garage Space in Ikeja",
+        "location": "Lagos",
+        "price": "\u20a660,000/month",
+        "description": "Secure and accessible garage space in Ikeja, perfect for vehicle storage.",
+        "image": "img/generated/garage.png",
+        "phone": "08011223344"
+    }
+]
